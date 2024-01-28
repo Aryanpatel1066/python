@@ -110,3 +110,7 @@ j2 = float(input("num 2:"))
 avg = int((j1 + j2) / 2)
 print(type(avg))
 
+j3 = 2
+j4 = 2
+ans = j3 + j4 < 4
+print(ans)
