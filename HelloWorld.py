@@ -17,7 +17,8 @@ age = 19
 cgpa = 8.43
 isOld = False 
 isMarrid = None
-
+z1,z2 = 3,4
+print (z1,z2) 
 print (name,bloddGroup,fullName)
 print('my age is',age)
 print ("cgpa from diploma is ",cgpa)
